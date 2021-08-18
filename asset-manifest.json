@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/popcat-demo/static/css/main.806198b7.chunk.css",
+    "main.js": "/popcat-demo/static/js/main.d76c92ad.chunk.js",
+    "main.js.map": "/popcat-demo/static/js/main.d76c92ad.chunk.js.map",
+    "runtime-main.js": "/popcat-demo/static/js/runtime-main.a95e82d0.js",
+    "runtime-main.js.map": "/popcat-demo/static/js/runtime-main.a95e82d0.js.map",
+    "static/js/2.92a83ab2.chunk.js": "/popcat-demo/static/js/2.92a83ab2.chunk.js",
+    "static/js/2.92a83ab2.chunk.js.map": "/popcat-demo/static/js/2.92a83ab2.chunk.js.map",
+    "static/js/3.a4cf4cd8.chunk.js": "/popcat-demo/static/js/3.a4cf4cd8.chunk.js",
+    "static/js/3.a4cf4cd8.chunk.js.map": "/popcat-demo/static/js/3.a4cf4cd8.chunk.js.map",
+    "static/js/4.a458758a.chunk.js": "/popcat-demo/static/js/4.a458758a.chunk.js",
+    "static/js/4.a458758a.chunk.js.map": "/popcat-demo/static/js/4.a458758a.chunk.js.map",
+    "static/css/5.d2188292.chunk.css": "/popcat-demo/static/css/5.d2188292.chunk.css",
+    "static/js/5.799a4065.chunk.js": "/popcat-demo/static/js/5.799a4065.chunk.js",
+    "static/js/5.799a4065.chunk.js.map": "/popcat-demo/static/js/5.799a4065.chunk.js.map",
+    "static/js/6.110ce6e1.chunk.js": "/popcat-demo/static/js/6.110ce6e1.chunk.js",
+    "static/js/6.110ce6e1.chunk.js.map": "/popcat-demo/static/js/6.110ce6e1.chunk.js.map",
+    "index.html": "/popcat-demo/index.html",
+    "precache-manifest.38d6d447ca07969e1dfa61a7d21ee20d.js": "/popcat-demo/precache-manifest.38d6d447ca07969e1dfa61a7d21ee20d.js",
+    "service-worker.js": "/popcat-demo/service-worker.js",
+    "static/css/5.d2188292.chunk.css.map": "/popcat-demo/static/css/5.d2188292.chunk.css.map",
+    "static/css/main.806198b7.chunk.css.map": "/popcat-demo/static/css/main.806198b7.chunk.css.map",
+    "static/js/2.92a83ab2.chunk.js.LICENSE.txt": "/popcat-demo/static/js/2.92a83ab2.chunk.js.LICENSE.txt",
+    "static/js/3.a4cf4cd8.chunk.js.LICENSE.txt": "/popcat-demo/static/js/3.a4cf4cd8.chunk.js.LICENSE.txt",
+    "static/media/delete-button.7ce6f55c.svg": "/popcat-demo/static/media/delete-button.7ce6f55c.svg",
+    "static/media/dice-button.8d5694f6.svg": "/popcat-demo/static/media/dice-button.8d5694f6.svg",
+    "static/media/donate-icon.8f03b22c.svg": "/popcat-demo/static/media/donate-icon.8f03b22c.svg",
+    "static/media/icon-fail.812c50fe.svg": "/popcat-demo/static/media/icon-fail.812c50fe.svg",
+    "static/media/icon-success.c04c757f.svg": "/popcat-demo/static/media/icon-success.c04c757f.svg",
+    "static/media/metamask.a65d9a9e.svg": "/popcat-demo/static/media/metamask.a65d9a9e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a95e82d0.js",
+    "static/js/2.92a83ab2.chunk.js",
+    "static/css/main.806198b7.chunk.css",
+    "static/js/main.d76c92ad.chunk.js"
+  ]
+}
